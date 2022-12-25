@@ -22,7 +22,7 @@ require 'config/database.php';
             <a href="index.html" class="nav__logo">College LaSalle - Admin Dashboard</a>
             <ul class="nav__items">
                 <li><a href="<?= ROOT_URL ?>blog.html">Blog</a></li>
-                <li><a href="<?= ROOT_URL ?>about.html">About</a></li>
+                <li><a href="<?= ROOT_URL ?>about.html">About us</a></li>
                 <li><a href="<?= ROOT_URL ?>services.html">Services</a></li>
                 <li><a href="<?= ROOT_URL ?>contact.html">Contact</a></li>
                 <!-- <li><a href="signin.html">Signin</a></li> -->
