@@ -8,6 +8,7 @@ require 'config/database.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>College LaSalle - Admin Dashboard</title>
+    <link rel="icon" href="https://yt3.googleusercontent.com/ytc/AMLnZu9gWb6QEYtpNH-Ka-9FDbKmCZM4jvfoNKJFL2oagQ=s900-c-k-c0x00ffffff-no-rj">
     <!-- CUSTOM STYLESHEET -->
     <link rel="stylesheet" href="../../css/style.css">
     <!-- ICONSCOUT CDN -->
@@ -22,7 +23,7 @@ require 'config/database.php';
             <a href="index.html" class="nav__logo">College LaSalle - Admin Dashboard</a>
             <ul class="nav__items">
                 <li><a href="<?= ROOT_URL ?>blog.html">Blog</a></li>
-                <li><a href="<?= ROOT_URL ?>about.html">About us</a></li>
+                <li><a href="<?= ROOT_URL ?>about.html">About</a></li>
                 <li><a href="<?= ROOT_URL ?>services.html">Services</a></li>
                 <li><a href="<?= ROOT_URL ?>contact.html">Contact</a></li>
                 <!-- <li><a href="signin.html">Signin</a></li> -->

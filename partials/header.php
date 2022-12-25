@@ -19,6 +19,8 @@ if (isset($_SESSION['user-id'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>College LaSalle - Blog</title>
+    
+    <link rel="icon" href="https://yt3.googleusercontent.com/ytc/AMLnZu9gWb6QEYtpNH-Ka-9FDbKmCZM4jvfoNKJFL2oagQ=s900-c-k-c0x00ffffff-no-rj">
     <!-- CUSTOM STYLESHEET -->
     <link rel="stylesheet" href="./css/style.css">
     <!-- ICONSCOUT CDN -->
